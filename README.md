@@ -2,9 +2,9 @@
 
 Autoclicker pour Windows.
 
-## ⬇️ [Télécharger AutoClic.exe (dernière version)](https://github.com/Scooby-kaiizox/AUTOCLIC-PRO-LINK/releases/latest/download/AutoClic.exe)
+## ⬇️ [Télécharger AutoClic.exe (dernière version)](https://github.com/Scooby-kaiizox/autoclic-telechargement/releases/latest/download/AutoClic.exe)
 
-Toutes les versions : [Releases](https://github.com/Scooby-kaiizox/AUTOCLIC-PRO-LINK/releases)
+Toutes les versions : [Releases](https://github.com/Scooby-kaiizox/autoclic-telechargement/releases)
 
 ## Installation
 1. Double-cliquez sur `AutoClic.exe` (un seul fichier, sans installation de Python).
